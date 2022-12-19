@@ -1,7 +1,9 @@
 # Python_Project
 
 Several trading strategy with Python
+
 Students: Antonio Antona, Emanuele Fogliati, Riccardo Iacueo
+
 The project is divided in four parts. In the first we created a class to import financial data from Binance.com of one or more cryptocurrencies using the site's API, then display the results on the Jupyter notebook and manipulate the data for our purpose.
 In the second part we presented a Mean Reverting Trading Strategy (in our case we used Ethereum and Bitcoin, but both can be substituted by other currencies by simply changing the imputs).
 
