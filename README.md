@@ -1,6 +1,6 @@
 # Python_Project
 
-Several trading strategy with Python
+Several trading strategies with Python
 
 Students: Antonio Antona, Emanuele Fogliati, Riccardo Iacueo
 
